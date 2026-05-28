@@ -1,6 +1,6 @@
 --find-links https://download.pytorch.org/whl/cu121/torch_stable.html
-torch==2.1.2+cu121
-torchvision==0.16.2+cu121
+torch==2.2.2+cu121
+torchvision==0.17.2+cu121
 ultralytics>=8.2.0
 opencv-python>=4.8.0
 numpy>=1.24.0
